@@ -2,18 +2,20 @@
 
 ## Integrantes
 
-* #### Cristian Menghi
-    * mail: cristian.menghi@estudiantes.utec.edu.uy
-    * nombre git: https://github.com/cristianmenghi | usuario: ***cristianmenghi***
+- #### Cristian Menghi
 
-* #### Álvaro Muñoz
-    * mail: alvaro.munoz@estudiantes.utec.edu.uy
-    * nombre git:  | usuario: 
+  - mail: cristian.menghi@estudiantes.utec.edu.uy
+  - nombre git: https://github.com/cristianmenghi | usuario: **_cristianmenghi_**
 
-* #### Mauro Carlevaro
-    * mail: giani.carlevaro@estudiantes.utec.edu.uy
-    * nombre git: https://github.com/Maureque | usuario: ***Maureque***
+- #### Álvaro Muñoz
+
+  - mail: alvaro.munoz@estudiantes.utec.edu.uy
+  - nombre git: https://github.com/AlvaroMun | usuario: **_AlvaroMun_**
+
+- #### Mauro Carlevaro
+  - mail: giani.carlevaro@estudiantes.utec.edu.uy
+  - nombre git: https://github.com/Maureque | usuario: **_Maureque_**
 
 ## Referente
 
-    Cristian Menghi [cristian.menghi@estudiantes.utec.edu.uy](mailto:cristian.menghi@estudiantes.utec.edu.uy)
+Cristian Menghi [cristian.menghi@estudiantes.utec.edu.uy](mailto:cristian.menghi@estudiantes.utec.edu.uy)
