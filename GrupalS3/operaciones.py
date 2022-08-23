@@ -4,9 +4,9 @@ def agregar(lista,num):
     return lista
 
 def borrar(lista,posicionLista):
-    lista.remove(posicionLista)
+    lista.pop(posicionLista)
     return lista
     
 def buscar(lista,num):
     i = lista.index(num)
-    return(i)
+    return i
