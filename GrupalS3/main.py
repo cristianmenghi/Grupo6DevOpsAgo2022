@@ -51,17 +51,17 @@ lista=[]
 #     min_width=20, min_height=9)
 # urwid.MainLoop(top, palette=[('reversed', 'standout', '')]).run()
 
-# TEST
-# lista=[10,5,2,3]
-# print("---add---")
-# agregar(lista,8)
-# print(lista)
-# print("---search---")
-# p = buscar(lista,2)
-# print("posicion : " + str(p))
-# print("---del---")
-# borrar(lista, p)
-# print(lista)
+TEST
+lista=[10,5,2,3]
+print("---add---")
+agregar(lista,8)
+print(lista)
+print("---search---")
+p = buscar(lista,2)
+print("posicion : " + str(p))
+print("---del---")
+borrar(lista, p)
+print(lista)
 
 
 
